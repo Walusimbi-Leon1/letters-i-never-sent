@@ -35,7 +35,8 @@ When she finally meets the man behind the words — a reclusive painter named Jo
 
 ## 🌐 Read Online
 
-Coming soon at: **https://walusimbi-leon1.github.io/letters-i-never-sent/**
+✅ **Read online:** https://walusimbi-leon1.github.io/letters-i-never-sent/book.html
+- 📥 **[Download PDF](https://walusimbi-leon1.github.io/letters-i-never-sent/Letters%20I%20Never%20Sent.pdf)**
 
 ## 📚 Part of the SGSS Literary Collection
 
