@@ -4,40 +4,46 @@
 
 ---
 
-## 📖 About the Book
+## 📖 About
 
-*Letters I Never Sent* is an emotionally gripping love story about the words we leave unspoken, the love letters we never mailed, and the second chances that arrive when we least expect them.
+*Letters I Never Sent* is a love story about the words we leave unspoken, the love letters we never mail, and the second chances that arrive when we least expect them. Set across New York, Paris, and Tokyo.
 
-Amina Kintu, a young journalist in Kampala, stumbles upon a dusty cardboard box hidden behind the shelves of an old city bookstore. Inside, she finds dozens of handwritten letters — each one beautifully addressed but never sent. They are love letters, penned over the course of a single year, by someone who clearly poured their entire soul onto the page.
+## 📋 License
 
-Driven by curiosity and a journalist's instinct, Amina sets out to find the mysterious writer. Her investigation leads her through the winding streets of Kampala, across the shores of Lake Victoria, and deep into the heart of a love story that ended before it could truly begin. Along the way, she discovers not only the truth behind the letters, but also pieces of her own heart she thought she had lost forever.
+All works are [CC0 1.0 Universal](LICENSE) (Public Domain) — free to read, share, and distribute.
 
-When she finally meets the man behind the words — a reclusive painter named Joseph Mugisha — she finds herself caught between her mission and her feelings. The letters tell the story of a love that never was. But maybe, just maybe, it's not too late to write a new ending.
+---
 
-*Letters I Never Sent* is a novel about the bravery of vulnerability, the beauty of words, and the truth that some of the most important things we ever say are the things we never say at all.
+## 📂 Repository Structure
 
-## 📋 Book Details
+```
+letters-i-never-sent/
+├── v1.0/              # Version 1.0 — East Africa Edition
+├── v2.0/              # Version 2.0 — International Edition
+├── LICENSE
+└── README.md
+```
 
-- **Title:** Letters I Never Sent
-- **Author:** Walusimbi Leon (SGSS)
-- **Genre:** Romance / Contemporary Fiction
-- **License:** [CC0 1.0 Universal](LICENSE) (Public Domain)
-- **Pages:** ~70+
+## 📚 Published Versions
 
-## 📁 Repository Contents
+| Version | Title | Description | Read |
+|---------|-------|-------------|------|
+| [v1.0](v1.0/) | *Letters I Never Sent* | Unsnet love letters found in a Kampala bookshop | [📖 Read](https://walusimbi-leon1.github.io/letters-i-never-sent/v1.0/book.html) · [📥 PDF](https://walusimbi-leon1.github.io/letters-i-never-sent/v1.0/Letters%20I%20Never%20Sent.pdf) |
+| [v2.0](v2.0/) | *Letters I Never Sent* | An international story spanning New York, Paris, and Tokyo | [📖 Read](https://walusimbi-leon1.github.io/letters-i-never-sent/v2.0/book.html) |
 
-| File | Description |
-|------|-------------|
-| `book.md` | Complete book (Markdown) |
-| `index.html` | GitHub Pages website |
-| `LICENSE` | CC0 1.0 Universal (Public Domain) |
-| `README.md` | This file |
+---
 
 ## 🌐 Read Online
 
-✅ **Read online:** https://walusimbi-leon1.github.io/letters-i-never-sent/book.html
-- 📥 **[Download PDF](https://walusimbi-leon1.github.io/letters-i-never-sent/Letters%20I%20Never%20Sent.pdf)**
+**Version 1.0 — East Africa Edition**
+- 📖 Read: https://walusimbi-leon1.github.io/letters-i-never-sent/v1.0/book.html
+- 📥 PDF: https://walusimbi-leon1.github.io/letters-i-never-sent/v1.0/Letters%20I%20Never%20Sent.pdf
+
+**Version 2.0 — International Edition**
+- 📖 Read: https://walusimbi-leon1.github.io/letters-i-never-sent/v2.0/book.html
+
+---
 
 ## 📚 Part of the SGSS Literary Collection
 
-This book is published under the SGSS (Spiritual Growth & Scientific Studies) literary collection, founded by Walusimbi Leon.
+Founded by Walusimbi Leon · All works free for all
