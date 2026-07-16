@@ -1,6 +1,7 @@
 {
-  "current_version": "1.0",
+  "current_version": "2.0",
   "releases": [
-    {"version": "1.0", "tag": "v1.0", "date": "2026-07-16", "title": "Letters I Never Sent", "description": "An emotionally gripping story about words left unspoken"}
+    {"version": "1.0", "tag": "v1.0", "date": "2026-07-16", "title": "Letters I Never Sent", "description": "East Africa Edition — unsent love letters in a Kampala bookshop"},
+    {"version": "2.0", "tag": "v2.0", "date": "2026-07-16", "title": "Letters I Never Sent", "description": "International Edition — New York, Paris, Tokyo romance"}
   ]
 }
