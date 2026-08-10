@@ -1,0 +1,17 @@
+{
+  "title": "Letters I Never Sent",
+  "subtitle": "A Novel",
+  "genre": "Literary romance",
+  "author": "Walusimbi Leon (SGSS)",
+  "description": "Naomi Chen, a magazine editor in New York, finds a box of 47 unsent love letters in a Greenwich Village bookshop and is drawn into the mystery of their writer, Kenji Tanaka.",
+  "style": "Elegant, literary third-person prose. Atmospheric New York autumn, bookish warmth, emotional depth.",
+  "characters": "Naomi Chen — 32, Japanese-American magazine editor; the mystery of Kenji Tanaka's unsent letters.",
+  "setting": "New York (Greenwich Village, The Strand of Memory bookshop).",
+  "notes": "Early chapters — Naomi just found the box. Develop the discovery of the letters, her growing fascination, and the mystery that unfolds.",
+  "chapterTitle": "Chapter",
+  "mdFiles": ["v2.0/book.md"],
+  "htmlFiles": ["v2.0/book.html"],
+  "indexInject": null,
+  "mdHeadingLevel": 3,
+  "targetWords": 2000
+}
